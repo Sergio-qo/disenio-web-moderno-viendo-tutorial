@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.corte{
+    border-width: 0 0 10vh 100vw;
+    border-style: solid;
+    border-color: transparent transparent red transparent;
+}
+
+.color1{
+    background-color: teal;
+    height: 50px;
+    width: 100%;
+}
+.color2{
+    background-color: red;
+    height: 50px;
+    width: 100%;
+}
+.color3{
+    background-color: green;
+    height: 50px;
+    width: 100%;
+}
+.color4{
+    background-color: blue;
+    height: 550px;
+    width: 100%;
+}
